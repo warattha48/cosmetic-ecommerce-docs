@@ -29,8 +29,8 @@
 
 ```mermaid
 graph TD
-    User[ลูกค้า] -->|HTTP| Frontend[Customer Frontend: Nuxt]
-    Admin[แอดมิน] -->|HTTP| AdminUI[Admin Dashboard: Nuxt]
+    User[ลูกค้า] -->|HTTP| Frontend[Customer Frontend: React]
+    Admin[แอดมิน] -->|HTTP| AdminUI[Admin Dashboard: React]
     
     Frontend --> Gateway[API Gateway]
     AdminUI --> Gateway
