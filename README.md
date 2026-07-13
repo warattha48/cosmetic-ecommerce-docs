@@ -273,9 +273,9 @@ cd Belle-Aura
 
 | ชื่อ-นามสกุล | บทบาท | GitHub |
 |---|---|---|
-| [ชื่อสมาชิก 1] | Project Manager | [@วรัตถา เตนากุล](https://github.com/) |
-| [ชื่อสมาชิก 2] | Frontend Developer | [@เปมิกา เมฆลอย](https://github.com/) |
-| [ชื่อสมาชิก 3] | UI/UX Designer | [@ภัทรพล ถ่อมดี](https://github.com/) |
+| [ชื่อสมาชิก 1] | Project Manager | [@username](https://github.com/) |
+| [ชื่อสมาชิก 2] | Frontend Developer | [@username](https://github.com/) |
+| [ชื่อสมาชิก 3] | UI/UX Designer | [@username](https://github.com/) |
 | [ชื่อสมาชิก 4] | Documentation | [@username](https://github.com/) |
 
 > จัดทำในรายวิชา **CSI204 - ดิจิทัลแพลตฟอร์มสำหรับพัฒนาซอฟต์แวร์**
